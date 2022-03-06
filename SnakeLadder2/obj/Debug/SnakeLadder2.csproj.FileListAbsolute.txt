@@ -1,0 +1,126 @@
+E:\C#\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\C#\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+E:\C#\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\C#\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+E:\test\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+E:\test\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+E:\test\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+E:\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+E:\test\SnakeLadder2\SnakeLadder2\bin\Debug\Interop.WMPLib.dll
+E:\test\SnakeLadder2\SnakeLadder2\bin\Debug\AxInterop.WMPLib.dll
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\ready to install\test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\Interop.WMPLib.dll
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\AxInterop.WMPLib.dll
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+E:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+E:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+E:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+E:\SnakeLadder2\SnakeLadder2\bin\Debug\Interop.WMPLib.dll
+E:\SnakeLadder2\SnakeLadder2\bin\Debug\AxInterop.WMPLib.dll
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.About.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form3.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form4.resources
+E:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Help.resources
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.manifest
+E:\important\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.application
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.About.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form3.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form4.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Help.resources
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe.manifest
+E:\important\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.application
+E:\exe test\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+E:\exe test\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+E:\exe test\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+E:\exe test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+E:\exe test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+E:\exe test\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.manifest
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.application
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\bin\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.About.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form3.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form4.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Help.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe.manifest
+C:\Program Files (x86)\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.application
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.config
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\Interop.WMPLib.dll
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\AxInterop.WMPLib.dll
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.ResolveComReference.cache
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.pdb
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe.manifest
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.application
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.exe
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\SnakeLadder2.pdb
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\Interop.WMPLib.dll
+C:\SnakeLadder2\SnakeLadder2\bin\Debug\AxInterop.WMPLib.dll
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojResolveAssemblyReference.cache
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.About.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form1.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.fromgame.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form3.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Form4.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Help.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.Properties.Resources.resources
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csproj.GenerateResource.Cache
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.exe.manifest
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.application
+C:\SnakeLadder2\SnakeLadder2\obj\Debug\SnakeLadder2.csprojAssemblyReference.cache
